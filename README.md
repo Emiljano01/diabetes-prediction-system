@@ -25,3 +25,33 @@ Sistem i klasifikimit të diabetit me Machine Learning (Random Forest), i ndërt
 ```bash
 git clone https://github.com/Emiljano01/diabetes-prediction-system.git
 cd diabetes-prediction-system
+```
+
+2. Krijo virtual environment dhe aktivizoje:
+```bash
+python -m venv .venv
+.venv\Scripts\activate      # Windows
+source .venv/bin/activate   # Mac/Linux
+```
+
+3. Instalo librarite:
+```bash
+pip install -r requirements.txt
+```
+
+4. Nise aplikacionin:
+```bash
+python app.py
+```
+
+## 📸 Screenshots
+
+*(Shto foto këtu)*
+
+## ⚠️ Shënim
+
+Ky aplikacion është vetëm për qëllime edukative dhe kërkimore. Nuk zëvendëson diagnozën mjekësore profesionale.
+
+## 👤 Autor
+
+Emiljano01
