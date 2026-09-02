@@ -43,15 +43,3 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
-
-## 📸 Screenshots
-
-*(Shto foto këtu)*
-
-## ⚠️ Shënim
-
-Ky aplikacion është vetëm për qëllime edukative dhe kërkimore. Nuk zëvendëson diagnozën mjekësore profesionale.
-
-## 👤 Autor
-
-Emiljano01
